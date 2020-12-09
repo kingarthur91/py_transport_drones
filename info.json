@@ -1,0 +1,11 @@
+{
+  "name": "py_transport_drones",
+  "version": "1.0.0",
+  "factorio_version": "1.1",
+  "title": "Pyanodons adjustments for transport drones",
+  "author": "Kingarthur",
+  "contact": "",
+  "homepage": "",
+  "description": "Modifies klonans transport drones to use a more approperate fuel for pymods and to have a more balanced recipe",
+  "dependencies": ["base >= 1.0", "Transport_Drones = 1.0.1", "pycoalprocessing >= 1.8.3"]
+}
