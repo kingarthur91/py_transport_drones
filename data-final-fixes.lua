@@ -16,4 +16,4 @@ RECIPE {
     },
     main_product = "transport-drone",
     subgroup = "transport-drones",
-}:add_unlock("transport-system"):replace_ingredient('steel-plate','duralumin')
+}:replace_ingredient('steel-plate','duralumin')--:add_unlock("transport-system")

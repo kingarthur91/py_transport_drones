@@ -29,7 +29,7 @@ RECIPE {
         {type = "fluid", name = "combustion-mixture2", amount = 80},
     },
     main_product = "combustion-mixture2"
-}
+}:add_unlock("transport-system")
 
 RECIPE {
     type = "recipe",
@@ -45,7 +45,7 @@ RECIPE {
         {type = "fluid", name = "combustion-mixture2", amount = 100},
     },
     main_product = "combustion-mixture2"
-}
+}:add_unlock("transport-system")
 
 RECIPE {
     type = "recipe",
@@ -61,7 +61,7 @@ RECIPE {
         {type = "fluid", name = "combustion-mixture2", amount = 120},
     },
     main_product = "combustion-mixture2"
-}
+}:add_unlock("transport-system")
 
 RECIPE {
     type = "recipe",
@@ -77,7 +77,7 @@ RECIPE {
         {type = "fluid", name = "combustion-mixture2", amount = 40},
     },
     main_product = "combustion-mixture2"
-}
+}:add_unlock("transport-system")
 
 RECIPE {
     type = "recipe",
@@ -93,7 +93,7 @@ RECIPE {
         {type = "fluid", name = "combustion-mixture2", amount = 50},
     },
     main_product = "combustion-mixture2"
-}
+}:add_unlock("transport-system")
 
 RECIPE {
     type = "recipe",
@@ -109,7 +109,7 @@ RECIPE {
         {type = "fluid", name = "combustion-mixture2", amount = 80},
     },
     main_product = "combustion-mixture2"
-}
+}:add_unlock("transport-system")
 
 RECIPE {
     type = "recipe",
@@ -125,7 +125,7 @@ RECIPE {
         {type = "fluid", name = "combustion-mixture2", amount = 200},
     },
     main_product = "combustion-mixture2"
-}
+}:add_unlock("transport-system")
 
 RECIPE {
     type = "recipe",
@@ -141,7 +141,7 @@ RECIPE {
         {type = "fluid", name = "combustion-mixture2", amount = 150},
     },
     main_product = "combustion-mixture2"
-}
+}:add_unlock("transport-system")
 
 RECIPE {
     type = "recipe",
@@ -157,7 +157,7 @@ RECIPE {
         {type = "fluid", name = "combustion-mixture2", amount = 120},
     },
     main_product = "combustion-mixture2"
-}
+}:add_unlock("transport-system")
 
 RECIPE {
     type = "recipe",
@@ -173,4 +173,4 @@ RECIPE {
         {type = "fluid", name = "combustion-mixture2", amount = 20},
     },
     main_product = "combustion-mixture2"
-}
+}:add_unlock("transport-system")

@@ -7,5 +7,5 @@
   "contact": "",
   "homepage": "",
   "description": "Modifies klonans transport drones to use a more approperate fuel for pymods and to have a more balanced recipe",
-  "dependencies": ["base >= 1.0", "Transport_Drones = 1.0.1", "pycoalprocessing >= 1.8.3"]
+  "dependencies": ["base >= 1.0", "Transport_Drones = 1.0.1", "pycoalprocessing >= 1.8.3", "(?) pyrawores"]
 }
